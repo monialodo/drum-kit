@@ -5,20 +5,18 @@
 
 <p align="center">App construído para aplicação de conhecimento em JS </p>
 
-   * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Features](#features)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Como Iniciar](#rodando-o-back-end-servidor)
-   * [Tecnologias](#tecnologias)
-
 
 ### Sobre
 
+<p> 
 Aplicação de conhecimento de POO em JavaScript
+</p>
+
+<p>
 Funciona com clique do mouse e teclado
+
+</p>
 
 Toque a bateria e se divirta!
 
-https://monia-drum-kit.herokuapp.com/
+<https://monia-drum-kit.herokuapp.com/>
